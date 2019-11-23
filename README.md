@@ -4,7 +4,7 @@
 Langkah pengerjaan :  
 Buat flowchart langkah program :  
   
-![FlowChartTugas4](https://user-images.githubusercontent.com/56189248/69474156-1262d300-0df0-11ea-898e-fc61f4384de4.png)Welcome to the Labspy04 wiki!  
+![FlowChartTugas4](https://user-images.githubusercontent.com/56189248/69474376-18a67e80-0df3-11ea-9195-bb706ddf2460.png)  
 
 1. Buat list kosong masing-masing data yang akan diinput 
   
