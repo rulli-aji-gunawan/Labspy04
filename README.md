@@ -8,7 +8,7 @@ Buat flowchart langkah program :
 
 1. Buat list kosong masing-masing data yang akan diinput 
   
-![ListKosong](![image](https://user-images.githubusercontent.com/56189248/69474192-84d3b300-0df0-11ea-9912-96b9bb5906dd.png))   
+![ListKosong](https://user-images.githubusercontent.com/56189248/69474440-be59ed80-0df3-11ea-8af3-b95ff5222855.png)   
   
 2. Buat list kosong untuk jumlah perulangan data yang diinput sebagai literary proses looping  
     
