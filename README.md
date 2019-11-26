@@ -4,20 +4,18 @@
 Langkah pengerjaan :  
 Buat flowchart langkah program :  
   
-![FlowChartTugas4](https://user-images.githubusercontent.com/56189248/69474376-18a67e80-0df3-11ea-9195-bb706ddf2460.png)  
+![FlowChartTugas4](https://user-images.githubusercontent.com/56189248/69646416-5973f100-109a-11ea-8063-b6898b105daf.png)  
 
-1. Buat list kosong masing-masing data yang akan diinput 
+1. Karena akan menggunakan List Multidimensi, maka buat sub-list yang akan berisi data yang akan diinput manual 
   
-![ListKosong](https://user-images.githubusercontent.com/56189248/69474440-be59ed80-0df3-11ea-8af3-b95ff5222855.png)   
-  
-2. Buat list kosong untuk jumlah perulangan data yang diinput sebagai literary proses looping  
+2. Buat list untuk jumlah perulangan data yang diinput sebagai literary proses looping  
     
-3. Definisikan perulangan degan "y". Gunakan kombinasi perintah looping dengan while dan for dengan program seperti berikut :  
+3. Definisikan stop perulangan degan "t". Gunakan kombinasi perintah looping dengan while dan for dengan program seperti berikut :  
   
-![AllCode](https://user-images.githubusercontent.com/56189248/69474228-1e9b6000-0df1-11ea-99cf-dc9f07a6338e.png)
+![AllCode](https://user-images.githubusercontent.com/56189248/69647385-f6835980-109b-11ea-9957-95ec1825ed9a.png)
   
 4. Masukkan nama, NIM, dan nilai masing masing sesuai perintah didalam tugas, dan hasilnya seperti berikut :  
   
-![HasilAkhir](https://user-images.githubusercontent.com/56189248/69474288-d7619f00-0df1-11ea-99a7-7f171a33aa18.png)  
+![HasilAkhir](https://user-images.githubusercontent.com/56189248/69647737-9b9e3200-109c-11ea-9294-3d8256bd26c0.png)  
   
 Semoga benar....
